@@ -1,0 +1,4 @@
+   {
+   "mongoURI": "mongodb+srv://dstupek:cR7SahlkFzplifiU@cluster0.cxxnd.mongodb.net/itdev161?retryWrites=true&w=majority",
+   "jwtSecret": "makeTheMostOfIt"
+   }
